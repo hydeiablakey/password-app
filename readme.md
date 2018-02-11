@@ -1,8 +1,5 @@
 # Vault Master
 
-
-
-
 ## About Vault Master
 is an interactive app that allows the user to store their very own passwords.
  
@@ -35,6 +32,6 @@ This project is still in it's prototype stage, however the idea behind this proj
 6. npm init install --save morgan
 
 ## Authors
-**Hydeia Blakey
+Hydeia Blakey
 Chanice Collins
 Erika Coreas 
