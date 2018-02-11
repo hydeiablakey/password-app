@@ -1,5 +1,8 @@
 # Vault Master
 
+
+
+
 ## About Vault Master
 is an interactive app that allows the user to store their very own passwords.
  
@@ -21,7 +24,7 @@ To use this app, you would need to clone the repository and run server.js in you
 Once it's up and running, you can head over to http://localhost:8080/index to login or sign up for an 
 account. 
 
-Once you signup, your information will be added to the database and you can freely start using the passwords page to add your very own passwords. 
+This project is still in it's prototype stage, however the idea behind this project is that once you signup, your information will be added to the database. From there you would be able to start using the passwords page to add your very own passwords. 
 
 ## Dependencies
 1. npm init
@@ -30,3 +33,8 @@ Once you signup, your information will be added to the database and you can free
 4. npm init install --save mongoose
 5. npm init install --save body-parser
 6. npm init install --save morgan
+
+## Authors
+**Hydeia Blakey
+Chanice Collins
+Erika Coreas 
